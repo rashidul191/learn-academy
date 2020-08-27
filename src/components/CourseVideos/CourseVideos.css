@@ -1,0 +1,30 @@
+.coures-item{
+    margin: 18px;
+    width: 27%;
+    float: left;
+    border-right: 1px solid red;
+    border-bottom: 1px solid red;
+    box-shadow:5px 5px 5px 5px gray;
+    padding: 5px;
+    text-align: center;
+    border-radius:5px;
+
+}
+.video-btn{
+    background-color:rgb(31, 155, 20) ;
+    height: 40px;
+    width: 285px;
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+
+}
+.video-btn:hover{
+    border:2px solid rgb(31, 155, 20);
+    color : black;
+    background-color: white;
+    cursor: pointer;
+}
+
